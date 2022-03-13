@@ -7,3 +7,4 @@ If your cash amount falls less than $10 you will lose the entire game.
 Min bet is $10 and max bet is $40
 I made it to where you have the choice to double down only if your first two cards adds up to 10 or 11.
 It should be bug free but let me know if you spot any bugs!
+This is the first real app I made. Have been programming for only 3 months
