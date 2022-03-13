@@ -131,7 +131,7 @@ public class Main {
                 dealer.deal();
 
                 //output dealer's first card and don't show dealer's second card and only print dealer's first card total
-                if (!dealer.isCardVisible()) { //if cheat code #5 is activated
+                if (!dealer.isCardVisible()) { //if cheat code #5 is not activated
                     System.out.println("Dealer's cards are: ");
                     System.out.println(dealer.getHand().getFirstCard().getName());
                     System.out.println("Card faced down");
